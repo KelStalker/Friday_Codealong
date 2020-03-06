@@ -1,8 +1,15 @@
-  
 .gray-text { /* American spelling makes me sad :( */
     color: darkgray;
 }
 
 .salmon-text {
     color: salmon;
+}
+
+.indigo-text {
+    color: indigo;
+}
+
+.big-text {
+    font-size: 2.25rem;
 }
